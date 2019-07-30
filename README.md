@@ -1,2 +1,5 @@
 # hello-world
-First time
+
+Hi,
+
+I'm following Git guide.
