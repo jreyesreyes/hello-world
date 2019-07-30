@@ -4,4 +4,4 @@ Hi,
 
 I'm following Git guide.
 
-Testing local1
+Testing remote1
